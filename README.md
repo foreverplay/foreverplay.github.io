@@ -5,8 +5,8 @@
  - Github：http://github.com/foreverplay
  - 期望职位：Web前端程序员
  - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
- - 手机：17605099789
-- Email：penglei4work@gmail.com
+ - 手机：[17605099789](tel:17605099789)
+- Email：[penglei4work@gmail.com](mailto:penglei4work@gmail.com)
 - QQ号：1032733313
 
 # 工作经历
